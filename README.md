@@ -16,7 +16,8 @@ Welcome to my GitHub profile!
 
 ## 🗓️ Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielmelo00&theme=github)
+![snake gif](https://github.com/gabrielmelo00/gabrielmelo00/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 👉 See my full contribution activity [here](https://github.com/gabrielmelo00).
